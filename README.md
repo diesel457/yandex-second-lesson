@@ -1,1 +1,2 @@
-# yandex-second-lesson. You should start command 'node index.js' in terminal. 
+# Yandex second lesson. 
+You should start command 'node index.js' in terminal. 
