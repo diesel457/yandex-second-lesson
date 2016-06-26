@@ -1,4 +1,8 @@
-var parser = require('./parser'),
+var Parser = require('./parser'),
     classes = require('./classesArray');
 
-console.log(parser(classes));
+//Create new instant Parser class
+var Parser = new Parser(classes);
+
+//Init Parser class
+console.log(Parser.init())
